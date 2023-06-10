@@ -28,6 +28,9 @@ export default{
             zoomable: false,
             scalable: false
         })
+        document.getElementById("download").addEventListener("click", function(){
+            document.getElementById("download").style.display = none
+        })
         document.getElementById("save").addEventListener("click", function(){
             var cropper_img = cropper.getCroppedCanvas({width: image.width}).toDataURL()
             var dwn = document.getElementById("download")
