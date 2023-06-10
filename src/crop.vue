@@ -3,10 +3,10 @@
 <template>
     <div class="container">
         <div class="img-container">
-    <img class="img-crop" id="image" style="height: 80vw; width: 80vw;">
+    <img class="img-crop" id="image" style="height: 80vw; width: 80vw;"></div>
     <br>
     <button class="btn btn-dark" id="save">Save</button> <a type="button" id="download" style="display:none" class="btn btn-light">Download</a>
-    </div>
+    
     <br>
 <br>
 <br>
@@ -46,10 +46,21 @@ export default{
 </script>
 
 <style scoped>
-.img-container{
-    width: 40vw;
+
+@media only screen and (min-width: 800px){
+    .img-container{
+    width: 60vw;
     height: 35vw;
-    margin: auto;
 }
+}
+@media only screen and (max-width: 800px){
+    .img-container{
+        width: 90vw;
+        margin-left: -3vw;
+        height: 100vw;
+    }
+}
+
+
 </style>
   
