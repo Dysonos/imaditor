@@ -21,6 +21,9 @@ import $ from 'jquery'
 export default{
     
     mounted(){
+        if (localStorage.getItem("image") === null){
+            window.open("/", "_self")
+        }
         var image = $("#image")
         document.getElementById("image").src = localStorage.getItem("image")
         const cropper = new Cropper(document.getElementById("image"), {

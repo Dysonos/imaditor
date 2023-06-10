@@ -1,5 +1,7 @@
 <template>
   <div class="container">
+    <br>
+    <br>
   <h1>A simplistic and minimalistic image cropper.</h1>
   <br>
   <div class="mb-3">
