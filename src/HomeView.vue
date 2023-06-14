@@ -36,11 +36,7 @@
 <script>
 export default {
   head: {
-    title(){
-      return{
-        inner: "a simplistic and minimalistic image cropper."
-      }
-    }
+    
   },
   mounted: function(){
     console.log("script")
