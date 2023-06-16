@@ -12,7 +12,7 @@
   <hr>
   <br>
   <div class="mb-3">
-  <label for="formFileMultiple" class="form-label">Choose the photo you want to edit.</label>
+  <h4 for="formFileMultiple" class="form-label" >Choose the photo you want to edit.</h4>
   <input class="form-control" type="file" id="formFileMultiple" multiple>
 </div>
 <br>
