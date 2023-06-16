@@ -6,7 +6,7 @@
   <br>
   <h2>How to use Dysonos image cropper.</h2>
   <ul>
-    <li>First, upload your file in the input give below and click Submit</li>
+    <li>First, upload your image of up to 5mb in the input give below and click Submit</li>
     <li>Now, the crop page window will open. Use our simple tool to crop your photos.</li>
   </ul>
   <hr>
@@ -22,7 +22,7 @@
 <a href="/privacy">Terms and Privacy Policy</a>  
 <br>
 <br>
-<p>Dysonos is a free image cropper with no risk of privacy breach. We do not have access to any photo which you upload because we are not connected by a database. You can use ask service to crop photos properly without any fee or unneccessary activity. You can use Dysonos cropper to crop your photos as per your need. We dont have any to limit to whcih you can upload your photos.</p>
+<p>Dysonos is a free image cropper with no risk of privacy breach. We do not have access to any photo which you upload because we are not connected by a database. You can use ask service to crop photos properly without any fee or unneccessary activity. You can use Dysonos cropper to crop your photos as per your need. We dont have any to limit to which you can upload your photos.</p>
 <br>
 <br>
 <br>
