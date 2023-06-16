@@ -40,7 +40,7 @@ export default{
             var dwn = document.getElementById("download")
             dwn.style.display = "inline"
             dwn.href = cropper_img
-            dwn.download = "cropped_" + localStorage.getItem("name")
+            dwn.download = "dysonos_cropped"
         })
     }
 }
