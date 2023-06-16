@@ -2,7 +2,7 @@
   <div class="container">
     <br>
     
-  <h1>A simplistic and minimalistic image cropper.</h1>
+  <h1>A Free, simple and convenient image cropper.</h1>
   <br>
   <h2>How to use Dysonos image cropper.</h2>
   <ul>
