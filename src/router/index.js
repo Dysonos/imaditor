@@ -18,6 +18,10 @@ const router = createRouter({
       path: '/privacy',
       name: 'privacy',
       component: () => import('../privacy.vue')
+    },
+    {
+      path: "/:catchAll(.*)",
+      component: () => import('../notFound.vue')
     }
   ]
 })
