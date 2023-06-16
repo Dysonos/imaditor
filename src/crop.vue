@@ -2,6 +2,7 @@
 
 <template>
     <div class="container">
+        <br>
         <div class="img-container">
     <img class="img-crop" id="image" style="height: 80vw; width: 80vw;"></div>
     <br>
@@ -50,7 +51,7 @@ export default{
 @media only screen and (min-width: 800px){
     .img-container{
     width: 60vw;
-    height: 35vw;
+    height: 34vw;
 }
 }
 @media only screen and (max-width: 800px){
