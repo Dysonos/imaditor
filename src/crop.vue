@@ -29,7 +29,7 @@ export default{
         document.getElementById("image").src = localStorage.getItem("image")
         const cropper = new Cropper(document.getElementById("image"), {
             aspectRatio: 0,
-            zoomable: false,
+            zoomable: true,
             scalable: false
         })
         document.getElementById("download").addEventListener("click", function(){
